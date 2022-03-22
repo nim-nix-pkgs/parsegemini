@@ -9,7 +9,7 @@
   
   inputs.src-parsegemini-master.flake = false;
   inputs.src-parsegemini-master.owner = "autumngray";
-  inputs.src-parsegemini-master.ref   = "refs/heads/master";
+  inputs.src-parsegemini-master.ref   = "master";
   inputs.src-parsegemini-master.repo  = "parsegemini";
   inputs.src-parsegemini-master.type  = "github";
   
