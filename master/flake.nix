@@ -11,6 +11,7 @@
   inputs.src-parsegemini-master.ref   = "refs/heads/master";
   inputs.src-parsegemini-master.owner = "autumngray";
   inputs.src-parsegemini-master.repo  = "parsegemini";
+  inputs.src-parsegemini-master.dir   = "";
   inputs.src-parsegemini-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
